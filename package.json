@@ -1,0 +1,15 @@
+{
+  "name": "Databank",
+  "version": "1.0.0",
+  "description": "Databank for SAB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "State Affairs Bureau",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^10.11.0"
+  }
+}
